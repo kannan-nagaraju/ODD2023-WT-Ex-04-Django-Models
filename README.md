@@ -1,8 +1,8 @@
 # Ex-04-Django-Models
 
-#Name: KANNAN N
+Name:KANNAN N
 
-#Reference no: 23013389
+Reference No:23013389
 
 # AIM:
 To create a django models.
